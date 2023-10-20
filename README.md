@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="x.gif?raw=true" width="21" />&nbsp;&nbsp; YouTube https://www.youtube.com/channel/UC5L_lvaBe8LL0IjEY8RFxMw
+<img src="xx.gif?raw=true" width="80" />&nbsp;&nbsp; YouTube https://www.youtube.com/channel/UC5L_lvaBe8LL0IjEY8RFxMw
 
 <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Social https://wlo.link/@luckyloottube
 
