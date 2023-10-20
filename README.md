@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=LuckyLootTube+-+Digital+Philanthropy%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center"> <img src="LLT-Banner.png" /> </p>
+
 <h2 align="center">Become a part of our community</h2>
 
 <div align="center">
