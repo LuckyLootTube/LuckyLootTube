@@ -1,0 +1,51 @@
+name: Twitch Live Status
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4.1.6
+
+    - name: Check Twitch live status
+      id: twitch-status
+      run: |
+        live_status=$(curl -s https://api.doras.to/links/twitch/tommertyboi | jq -r '.live')
+        echo "live_status=$live_status" >> $GITHUB_OUTPUT
+
+    - name: Update README
+      env:
+        LIVE_STATUS: ${{ steps.twitch-status.outputs.live_status }}
+      run: |
+        echo "Live Status: $LIVE_STATUS"
+        if [ "$LIVE_STATUS" == "true" ]; then
+          sed -i '1s/^/[![Twitch Live Banner](\/assets\/livebanner.png)](https:\/\/www.twitch.tv\/tommertyboi)\n/' README.md
+        else
+          sed -i '/\[!\[Twitch Live Banner\](\/assets\/livebanner\.png)\](https:\/\/www\.twitch\.tv\/tommertyboi)/d' README.md
+          echo "Removed Twitch Live Banner"
+        fi
+
+    - name: Check for changes
+      id: check_changes
+      run: |
+        git diff README.md
+        if [ -n "$(git status --porcelain README.md)" ]; then
+          echo "changes_detected=true" >> $GITHUB_OUTPUT
+        else
+          echo "changes_detected=false" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Commit changes
+      if: steps.check_changes.outputs.changes_detected == 'true'
+      run: |
+        git config --global user.email "tommerty@github.com"
+        git config --global user.name "Tommerty"
+        git add README.md
+        git commit -m "Update Twitch Live Banner in README"
+        git push
