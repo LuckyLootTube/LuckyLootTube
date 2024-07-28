@@ -9,7 +9,7 @@
 
 <h3 align="center">YouTube https://www.youtube.com/channel/UC5L_lvaBe8LL0IjEY8RFxMw</h3>
 
-<h3 align="center">Social https://wlo.link/@luckyloottube</h3>
+<h3 align="center">Social https://profile.luckyloottube.com/</h3>
 
 <h3 align="center">Website https://luckyloottube.com</h3>
 
