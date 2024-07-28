@@ -1,5 +1,3 @@
-[![Twitch Live Banner](/livebanner.png)](https://www.twitch.tv/luckyloottube)
-[![Twitch Live Banner](/livebanner.png)](https://www.twitch.tv/luckyloottube)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=LuckyLootTube+-+Digital+Philanthropy%E2%9D%A4%EF%B8%8F">
 </p>
