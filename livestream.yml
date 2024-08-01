@@ -2,7 +2,7 @@ name: Update Twitch Live Status
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Run every 30 minutes (do not go shorter than 5 minutes to avoid rate limiting)
+    - cron: '*/10 * * * *'  # Run every 10 minutes (do not go shorter than 5 minutes to avoid rate limiting)
   workflow_dispatch:  # Allow manual triggering
 
 # Environment variables for easy customization
