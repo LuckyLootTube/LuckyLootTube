@@ -23,7 +23,7 @@ jobs:
     - name: Check Twitch Status
       id: twitch-status
       run: |
-        live_status=$(curl -s "https://api.doras.to/links/twitch/${{ env.TWITCH_USERNAME }}" | jq -r '.live')
+        live_status=$(curl -s "https://api.doras.to/links/twitch/${{ env.luckyloottube }}" | jq -r '.live')
         echo "live_status=$live_status" >> $GITHUB_OUTPUT
 
     # Update the README based on live status
@@ -34,10 +34,10 @@ jobs:
         echo "Live Status: $LIVE_STATUS"
         if [ "$LIVE_STATUS" == "true" ]; then
           # Add live banner to the top of README if stream is live
-          sed -i "1s/^/[![Twitch Live Banner](${{ env.BANNER_IMAGE_URL }})](${{ env.TWITCH_URL }})\n/" README.md
+          sed -i "1s/^/[![Twitch Live Banner](${{ env.https://github.com/LuckyLootTube/LuckyLootTube/blob/f74d0a4c2c664656395472003ffaacdb1d955528/GitHub_Twitch.png }})](${{ env.https://www.twitch.tv/luckyloottube }})\n/" README.md
         else
           # Remove live banner from README if stream is not live
-          sed -i "/\[!\[Twitch Live Banner\](${{ env.BANNER_IMAGE_URL }})\](${{ env.TWITCH_URL }})/d" README.md
+          sed -i "/\[!\[Twitch Live Banner\](${{ env.https://github.com/LuckyLootTube/LuckyLootTube/blob/f74d0a4c2c664656395472003ffaacdb1d955528/GitHub_Twitch.png }})\](${{ env.https://www.twitch.tv/luckyloottube }})/d" README.md
           echo "Removed Twitch Live Banner"
         fi
 
