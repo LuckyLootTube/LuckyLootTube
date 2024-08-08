@@ -1,9 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luckyloottube.luckyloottube" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=LuckyLootTube+-+Digital+Philanthropy%E2%9D%A4%EF%B8%8F">
-</p>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=33&center=true&vCenter=true&width=500&height=70&duration=4000&lines=LuckyLootTube;+Digital+Philanthropy;+FREE+Giveaways;" />
 </h1>
@@ -31,5 +27,5 @@
 <a href="https://instagram.com/luckyloottube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luckyloottube" height="30" width="40" /></a>
 </p>
 
-## SNEK being wild 😜
+## Our Cute Snake 😜
 ![snake gif](https://github.com/luckyloottube/luckyloottube/blob/main/github-contribution-grid-snake.svg)
