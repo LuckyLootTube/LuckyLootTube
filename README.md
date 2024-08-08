@@ -27,10 +27,5 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 SNEK 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/luckyloottube/luckyloottube/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-<hr/>
+## 🐍 SNEK 🐍
+![snake gif](https://github.com/luckyloottube/luckyloottube/github-contribution-grid-snake-dark.svg)
