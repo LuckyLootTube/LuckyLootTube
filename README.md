@@ -26,6 +26,5 @@
 
 <hr/>
 
-<div align="center">
-## 🐍 SNEK 🐍
+## snake eating my contribution graph
 ![snake gif](https://github.com/luckyloottube/luckyloottube/github-contribution-grid-snake-dark.svg)
