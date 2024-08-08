@@ -27,4 +27,4 @@
 <hr/>
 
 ## snake eating my contribution graph
-![snake gif](https://github.com/luckyloottube/luckyloottube/blobl/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/luckyloottube/luckyloottube/blob/github-contribution-grid-snake.svg)
