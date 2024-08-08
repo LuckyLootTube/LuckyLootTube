@@ -18,8 +18,6 @@
 
 <h3 align="center">Website https://luckyloottube.com</h3>
 
-</div>
-
 <p align="center">
 <a href="https://twitter.com/luckyloottube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luckyloottube" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/company/luckyloottube/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/luckyloottube/" height="30" width="40" /></a>
@@ -27,15 +25,16 @@
 <a href="https://instagram.com/luckyloottube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luckyloottube" height="30" width="40" /></a>
 
 
-### 📺 Our Latest FREE Giveaway
+📺 Our Latest FREE Giveaway 📺
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Our previous FREE Giveaway](https://ytcards.demolab.com/?id=8ph3KhZ-evA&title=Our+previous+FREE+Giveaway&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Our previous FREE Giveaway")](https://www.youtube.com/watch?v=8ph3KhZ-evA)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Our%20Journey-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@LuckyLootTube?sub_confirmation=1)
+
+</div>
 </p>
-#
 
 
 
