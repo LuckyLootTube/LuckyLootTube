@@ -24,7 +24,5 @@
 <a href="https://instagram.com/luckyloottube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luckyloottube" height="30" width="40" /></a>
 </p>
 
-<hr/>
-
-## snake eating my contribution graph
+## SNEK being wild 😜
 ![snake gif](https://github.com/luckyloottube/luckyloottube/blob/main/github-contribution-grid-snake.svg)
