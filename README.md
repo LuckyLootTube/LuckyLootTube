@@ -33,10 +33,11 @@
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Our%20Journey-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@LuckyLootTube?sub_confirmation=1)
 
+
+
+
+
+And a cute snake 😜
+![snake gif](https://github.com/luckyloottube/luckyloottube/blob/main/github-contribution-grid-snake.svg)
 </div>
 </p>
-
-
-
-## Our Cute Snake 😜
-![snake gif](https://github.com/luckyloottube/luckyloottube/blob/main/github-contribution-grid-snake.svg)
