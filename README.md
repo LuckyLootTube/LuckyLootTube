@@ -25,4 +25,4 @@
 </p>
 
 ## SNEK being wild 😜
-![snake gif](https://github.com/luckyloottube/luckyloottube/blob/main/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/luckyloottube/luckyloottube/blob/main/github-contribution-grid-snake.svg)
