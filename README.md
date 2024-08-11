@@ -28,7 +28,7 @@
 📺 Our Latest FREE Giveaway 📺
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Our previous FREE Giveaway](https://ytcards.demolab.com/?id=8ph3KhZ-evA&title=Our+previous+FREE+Giveaway&lang=en&background_color=%230a1236&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Our previous FREE Giveaway")](https://www.youtube.com/watch?v=n7ebwUTM_7g)
+[![Our previous FREE Giveaway](https://ytcards.demolab.com/?id=v=n7ebwUTM_7g&title=Our+previous+FREE+Giveaway&lang=en&background_color=%230a1236&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Our previous FREE Giveaway")](https://www.youtube.com/watch?v=n7ebwUTM_7g)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Our%20Journey-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@LuckyLootTube?sub_confirmation=1)
