@@ -6,17 +6,19 @@
 
 <p align="center"> <img src="SkinnyLLTBanner.jpg" /> </p>
 
-<h2 align="center">Become a part of our community</h2>
+<h2 align="center">Become a Part of our Community</h2>
 
 <div align="center">
 
 <h3 align="center">YouTube https://www.youtube.com/@LuckyLootTube</h3>
 
-<h3 align="center">Profile https://profile.luckyloottube.com/</h3>
+<h3 align="center">Profile https://doras.to/luckyloottube/social</h3>
 
 <h3 align="center">Next Event https://luckyloottube.me/</h3>
 
-<h3 align="center">Website https://luckyloottube.com</h3>
+<h3 align="center">Website https://luckyloottube.me/</h3>
+
+<h2 align="center">Feedback https://luckyloottube.com/</h2>
 
 <p align="center">
 <a href="https://twitter.com/luckyloottube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luckyloottube" height="30" width="40" /></a>
@@ -31,11 +33,8 @@
 [![Our previous FREE Giveaway](https://ytcards.demolab.com/?id=n7ebwUTM_7g&title=Our+previous+FREE+Giveaway&lang=en&background_color=%230a1236&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Our previous FREE Giveaway")](https://www.youtube.com/watch?v=n7ebwUTM_7g)
 <!-- END YOUTUBE-CARDS -->
 
+
 [<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Our%20Journey-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@LuckyLootTube?sub_confirmation=1)
-
-
-
-
 
 And a cute snake 😜
 ![snake gif](https://github.com/luckyloottube/luckyloottube/blob/main/github-contribution-grid-snake.svg)
