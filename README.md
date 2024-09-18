@@ -12,9 +12,9 @@
 
 <h3 align="center">YouTube: https://www.youtube.com/@LuckyLootTube</h3>
 
-<h3 align="center">Profile: https://doras.to/luckyloottube/social</h3>
-
 <h3 align="center">Next Event: https://luckyloottube.me/rounds/</h3>
+
+<h3 align="center">Profile: https://doras.to/luckyloottube/social</h3>
 
 <h3 align="center">Website: https://luckyloottube.me/</h3>
 
