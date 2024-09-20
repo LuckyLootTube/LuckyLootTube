@@ -8,9 +8,9 @@
 
 <h2 align="center">Become a Part of our Community</h2>
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=1092155990461382758)
-
 <div align="center">
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1092155990461382758)
 
 <h3 align="center">YouTube: https://www.youtube.com/@LuckyLootTube</h3>
 
