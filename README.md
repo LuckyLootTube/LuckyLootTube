@@ -32,7 +32,7 @@
 📺 Our Latest FREE Giveaway 📺
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Our previous FREE Giveaway](https://ytcards.demolab.com/?id=n7ebwUTM_7g&title=Our+previous+FREE+Giveaway&lang=en&background_color=%230a1236&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Our previous FREE Giveaway")](https://www.youtube.com/watch?v=n7ebwUTM_7g)
+[![Our previous FREE Giveaway](https://ytcards.demolab.com/?id=Zog6c0vb6aM&title=Our+previous+FREE+Giveaway&lang=en&background_color=%230a1236&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Our previous FREE Giveaway")](https://www.youtube.com/watch?v=Zog6c0vb6aM)
 <!-- END YOUTUBE-CARDS -->
 
 
