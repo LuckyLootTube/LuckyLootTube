@@ -29,16 +29,12 @@
 <a href="https://instagram.com/luckyloottube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luckyloottube" height="30" width="40" /></a>
 
 
-📺 Our Latest FREE Giveaway 📺
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Our previous FREE Giveaway](https://ytcards.demolab.com/?id=fOWpDcX3YJA&title=Our+previous+FREE+Giveaway&lang=en&background_color=%230a1236&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Our previous FREE Giveaway")](https://www.youtube.com/watch?v=fOWpDcX3YJA)
-<!-- END YOUTUBE-CARDS -->
 
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Our%20Journey-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@LuckyLootTube?sub_confirmation=1)
 
-Promoting the joy of giving, since 2023. 💗
+[<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Our%20Journey-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.twitch.tv/luckyloottube)
+
+LuckyLootTube is a Gaming Community which is organizing self-funded giveaways on Twitch. 💗
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luckyloottube/luckyloottube/output/github-snake-dark.svg" />
