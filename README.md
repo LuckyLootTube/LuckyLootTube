@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luckyloottube.luckyloottube" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=500&color=EBBC3C&center=true&vCenter=true&width=600&height=80&lines=💛+LuckyLootTube;+📦+FREE+Giveaways;+🐾+Powered+by+Bambi;+🎮+Join+Us+Live!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&pause=500&color=EBBC3C&center=true&vCenter=true&width=600&height=80&lines=💛+LuckyLootTube;+📦+FREE+Giveaways;+🐾+Powered+by+Bambi;+🎮+Join+Us+Live!" />
 </h1>
 
 <p align="center"> <img src="SkinnyLLTBanner.jpg" /> </p>
