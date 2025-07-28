@@ -18,7 +18,7 @@
 
 <h3 align="center">Website: https://luckyloottube.com/</h3>
 
-<h4 align="center">Feedback Hub: https://luckyloottube.me/</h4>
+<h4 align="center">Feedback Hub: https://luckyloottube.com/feedback/</h4>
 
 <p align="center">
 <a href="https://twitter.com/luckyloottube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luckyloottube" height="30" width="40" /></a>
